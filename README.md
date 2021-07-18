@@ -1,7 +1,7 @@
 # Daftar Embed LIVE STREAM - Channel TV Indonesia
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/yogibagus/Daftar-Embed-LIVE-STREAM-Channel-TV-Indonesia/) 
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yogibagus/Daftar-Embed-LIVE-STREAM-Channel-TV-Indonesia)
+[![GitHub forks](https://img.shields.io/github/forks/yogibagus/Daftar-Embed-LIVE-STREAM-Channel-TV-Indonesia.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/yogibagus/Daftar-Embed-LIVE-STREAM-Channel-TV-Indonesia/) 
+[![GitHub stars](https://img.shields.io/github/stars/yogibagus/Daftar-Embed-LIVE-STREAM-Channel-TV-Indonesia.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yogibagus/Daftar-Embed-LIVE-STREAM-Channel-TV-Indonesia)
 
 
 
@@ -33,7 +33,5 @@ Terimakasih. 🙏
 ## Licenses
 
 [![licensebuttons by-nc](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0)
-
-Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
 ⚠️ Gunakan konten dalam git ini dengan bijak. 
