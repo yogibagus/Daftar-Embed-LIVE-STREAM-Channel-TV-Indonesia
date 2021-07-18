@@ -21,7 +21,7 @@ Berisi Embed URL Live Stream Channel TV yang ada di Indonesia.
 | SCTV | [Link](https://www.vidio.com/live/204-sctv-tv-stream/embed?autoplay=true&player_only=true&live_chat=false&mute=false&) | Aktif | - | -
 
 ## Tambah Channel
-Jika menemukan url embed Channel TV Indonesia lainnya bisa langsung edit saja atau gunakan fitur [Issues](issues). 🕵🏻
+Jika menemukan url embed Channel TV Indonesia lainnya bisa langsung edit saja atau gunakan fitur [Issues](https://github.com/yogibagus/Daftar-Embed-LIVE-STREAM-Channel-TV-Indonesia/issues). 🕵🏻
 
 Terimakasih. 🙏
 
