@@ -1,6 +1,8 @@
 # Daftar Embed LIVE STREAM - Channel TV Indonesia
-[![star this repo](https://githubbadges.com/star.svg?user=yogibagus&repo=Daftar-Embed-LIVE-STREAM-Channel-TV-Indonesia&style=default)](https://github.com/yogibagus/Daftar-Embed-LIVE-STREAM-Channel-TV-Indonesia)
-[![fork this repo](https://githubbadges.com/fork.svg?user=yogibagus&repo=Daftar-Embed-LIVE-STREAM-Channel-TV-Indonesia&style=default)](https://github.com/yogibagus/Daftar-Embed-LIVE-STREAM-Channel-TV-Indonesia/fork)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/yogibagus/Daftar-Embed-LIVE-STREAM-Channel-TV-Indonesia/) 
+[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yogibagus/Daftar-Embed-LIVE-STREAM-Channel-TV-Indonesia)
+
 
 
 Berisi Embed URL Live Stream Channel TV yang ada di Indonesia.
@@ -21,11 +23,17 @@ Berisi Embed URL Live Stream Channel TV yang ada di Indonesia.
 | SCTV | [Link](https://www.vidio.com/live/204-sctv-tv-stream/embed?autoplay=true&player_only=true&live_chat=false&mute=false&) | Aktif | - | -
 
 ## Tambah Channel
+
+[![Ask Me Anything !](https://img.shields.io/badge/Add%20Channel-Open-1abc9c.svg)](https://github.com/yogibagus/Daftar-Embed-LIVE-STREAM-Channel-TV-Indonesia/issues)
+
 Jika menemukan url embed Channel TV Indonesia lainnya bisa langsung edit saja atau gunakan fitur [Issues](https://github.com/yogibagus/Daftar-Embed-LIVE-STREAM-Channel-TV-Indonesia/issues). 🕵🏻
 
 Terimakasih. 🙏
 
-## Penting
-⚠️ Gunakan konten dalam git ini dengan bijak. 
+## Licenses
 
-💘
+[![licensebuttons by-nc](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0)
+
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+⚠️ Gunakan konten dalam git ini dengan bijak. 
