@@ -18,12 +18,13 @@ Berisi Embed URL Live Stream Channel TV yang ada di Indonesia.
 | IDX | [Link](https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZjZG4tbGl2ZXR2LXN0dWRpby5tZXR1YmUuaWQlMkZpZHhjaGFubmVsLm0zdTgmaGVpZ2h0PTEwMCUyNSZ3aWR0aD0xMDAlMjU=) | ✔️Online | ♾️No Limit | - | - | -
 | MNCNEWS | [Link](https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZjZG4tbGl2ZXR2LXN0dWRpby5tZXR1YmUuaWQlMkZtbmNuZXdzLm0zdTgmaGVpZ2h0PTEwMCUyNSZ3aWR0aD0xMDAlMjU=) | ✔️Online | ♾️No Limit | - | - | -
 | TRANS7 | [Link](https://20.detik.com/watch/livestreaming-trans7) | ✔️Online | ♾️No Limit | - | - | -
-| TRANSTV | [Link](https://20.detik.com/watch/livestreaming-transtv) | ✔️Online | ♾️No Limit | - | - | -
+| TRANS TV | [Link](https://20.detik.com/watch/livestreaming-transtv) | ✔️Online | ♾️No Limit | - | - | -
 | CNN INDONESIA | [Link](https://www.cnnindonesia.com/tv/embed?ref=transmedia) | ✔️Online | ♾️No Limit | - | - | -
 | CNBC INDONESIA | [Link](https://www.cnbcindonesia.com/embed/tv?ref=transmedia) | ❌Offline | ❌Offline | - | - | -
 | SCTV | [Link](https://www.vidio.com/live/204-sctv-tv-stream/embed?autoplay=true&player_only=true&live_chat=false&mute=false&) | ✔️Online | ⛔Limit | - | - | -
 | METRO TV | [Link](https://www.dailymotion.com/embed/video/k236ofBIxajxDiti8CY?autoPlay=1&queue-enable=false) | ✔️Online | ♾️No Limit | - | - | -
 | KOMPAS TV | [Link](https://www.dailymotion.com/embed/video/k46igSmSMGBIiWsXtWk?autoplay=1) | ✔️Online | ♾️No Limit | - | - | -
+| BERITA SATU | [Link](https://beritasatu.tv/playstream.php) | ✔️Online | ♾️No Limit | - | - | -
 
 Keterangan sebagai berikut:
 - ✅Online :
