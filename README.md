@@ -23,6 +23,7 @@ Berisi Embed URL Live Stream Channel TV yang ada di Indonesia.
 | CNBC INDONESIA | [Link](https://www.cnbcindonesia.com/embed/tv?ref=transmedia) | ❌Offline | ❌Offline | - | - | -
 | SCTV | [Link](https://www.vidio.com/live/204-sctv-tv-stream/embed?autoplay=true&player_only=true&live_chat=false&mute=false&) | ✔️Online | ⛔Limit | - | - | -
 | METRO TV | [Link](https://www.dailymotion.com/embed/video/k236ofBIxajxDiti8CY?autoPlay=1&queue-enable=false) | ✔️Online | ♾️No Limit | - | - | -
+| KOMPAS TV | [Link](https://www.dailymotion.com/embed/video/k46igSmSMGBIiWsXtWk?autoplay=1) | ✔️Online | ♾️No Limit | - | - | -
 
 Keterangan sebagai berikut:
 - ✅Online :
